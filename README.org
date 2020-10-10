@@ -1,0 +1,3 @@
+* go-rest-api
+A simple REST service based on the [[https://github.com/go-chi/chi][go-chi]] example, using a postgresql
+database connection. 
